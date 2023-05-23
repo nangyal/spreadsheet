@@ -2,7 +2,7 @@
 
 Command line spread sheet manager
 
-read and write excel .xlx
+read and write excel .xlsx
 and
 read and write google spreadsheet 
 
