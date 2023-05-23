@@ -8,19 +8,25 @@ read and write google spreadsheet
 
 the xlsx files are generated into /files folder
 
-how to install
+# how to install
+
 clone the repository
 
 composer install
 
 add an execute permission to the cli.php
 
+
+availabe options
+
 ./cli.php  for menu
 
-
 ./cli.php read_spreadsheet
+
 ./cli.php write_spreadsheet
+
 ./cli.php read_excel
+
 ./cli.php write_excel
 
 
